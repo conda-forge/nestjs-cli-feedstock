@@ -7,7 +7,7 @@
 
 [project]
 name = "nestjs-cli-feedstock"
-version = "3.47.1"  # conda-smithy version used to generate this file
+version = "3.47.2"  # conda-smithy version used to generate this file
 description = "Pixi configuration for conda-forge/nestjs-cli-feedstock"
 authors = ["@conda-forge/nestjs-cli"]
 channels = ["conda-forge"]
