@@ -1,5 +1,5 @@
 context:
-  version: "11.0.7"
+  version: "11.0.9"
 
 package:
   name: nestjs-cli
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@nestjs/cli/-/cli-${{ version }}.tgz
-  sha256: 00ec0d45d8477530ef5b2d3cf7c7d5d643feceab490e1657a5fec41f1a8ab9ab
+  sha256: 1ba31935d661e298791616c2dd921b8d460440c1c302ea81f99df9b6ddb1874c
 
 build:
   number: 0
